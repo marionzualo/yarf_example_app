@@ -1,19 +1,13 @@
-PATH
-  remote: /Users/marionzualo/Projects/yarf
-  specs:
-    yarf (0.1.0)
-      rack
-
 GEM
   remote: https://rubygems.org/
   specs:
-    rack (2.0.1)
+    yarf (0.1.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  yarf!
+  yarf
 
 BUNDLED WITH
    1.13.6
